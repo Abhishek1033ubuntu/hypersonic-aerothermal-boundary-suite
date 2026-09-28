@@ -20,6 +20,22 @@ Run the master simulation to visualize the integrated physical response:
 python src/hypersonic_master_sim.py
 ```
 
-# Citation
-If you utilize this computational framework, please cite:
-Singh, A. (2026). Hypersonic Aerothermal Boundary-Layer Transition & SWBLI Mitigation Suite (Version 1.0.0).
+## Citation
+
+If you utilize this computational framework or data in your research, please cite it as follows:
+
+### APA Format
+Singh, A. (2026). Hypersonic Aerothermal Boundary-Layer Transition & SWBLI Mitigation Suite (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.PENDING
+
+### BibTeX
+```bibtex
+@software{singh_2026_hypersonic_swbli,
+  author       = {Singh, Abhishek},
+  title        = {Hypersonic Aerothermal Boundary-Layer Transition \& SWBLI Mitigation Suite},
+  month        = sep,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.PENDING},
+  url          = {[https://github.com/Abhishek1033ubuntu/hypersonic-aerothermal-boundary-suite](https://github.com/Abhishek1033ubuntu/hypersonic-aerothermal-boundary-suite)}
+}
