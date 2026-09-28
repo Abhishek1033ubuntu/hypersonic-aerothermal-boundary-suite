@@ -19,3 +19,7 @@ Run the master simulation to visualize the integrated physical response:
 ```bash
 python src/hypersonic_master_sim.py
 ```
+
+# Citation
+If you utilize this computational framework, please cite:
+Singh, A. (2026). Hypersonic Aerothermal Boundary-Layer Transition & SWBLI Mitigation Suite (Version 1.0.0).
