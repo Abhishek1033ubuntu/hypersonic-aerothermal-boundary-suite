@@ -4,6 +4,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Abhishek1033ubuntu/hypersonic-aerothermal-boundary-suite/blob/main/notebooks/hypersonic_swbli_sim.ipynb) 
 ![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg) 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
+[![Powered by Gemini](https://img.shields.io/badge/Powered%20by-Gemini-8E75B2?style=flat&logo=google-gemini&logoColor=white)](https://gemini.google.com) 
 
 A comprehensive multi-physics simulation suite designed to resolve Shockwave Boundary-Layer Interaction (SWBLI) and aerothermal transition on hypersonic projectiles (Mach > 5).
 
