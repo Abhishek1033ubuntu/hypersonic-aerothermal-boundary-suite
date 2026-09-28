@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+authors:
+  - family-names: "Singh"
+    given-names: "Abhishek"
+title: "Hypersonic Aerothermal Boundary-Layer Transition & SWBLI Mitigation Suite"
+version: 1.0.0
+doi: 10.5281/zenodo.PENDING
+date-released: 2026-09-29
+url: "https://github.com/Abhishek1033ubuntu/hypersonic-aerothermal-boundary-suite"
