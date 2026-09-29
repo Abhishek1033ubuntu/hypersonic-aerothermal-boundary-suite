@@ -1,6 +1,6 @@
 # Hypersonic Aerothermal Boundary-Layer Transition & SWBLI Mitigation
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.PENDING.svg)](https://doi.org/10.5281/zenodo.PENDING) 
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23024164-blue?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.23024164) 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Abhishek1033ubuntu/hypersonic-aerothermal-boundary-suite/blob/main/notebooks/hypersonic_swbli_sim.ipynb) 
 ![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg) 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
