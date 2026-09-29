@@ -26,7 +26,7 @@ python src/hypersonic_master_sim.py
 If you utilize this computational framework or data in your research, please cite it as follows:
 
 ### APA Format
-Singh, A. (2026). Hypersonic Aerothermal Boundary-Layer Transition & SWBLI Mitigation Suite (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.PENDING
+Singh, A. (2026). Hypersonic Aerothermal Boundary-Layer Transition & SWBLI Mitigation Suite (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.23024164
 
 ### BibTeX
 ```bibtex
