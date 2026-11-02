@@ -15,6 +15,12 @@ At speeds exceeding Mach 5 (1,900 m/s), severe aerothermal heating and oblique s
 2. **Active SWBLI Control:** Nanosecond Pulsed Dielectric Barrier Discharge (NS-DBD) plasma actuation array to collapse separation bubbles.
 3. **Internal Structural Damping:** Bio-mimetic `Fe-28Mn-6Si-5Cr-0.5C` Shape Memory Alloy (SMA) internal lattice for mechanical stress wave dissipation.
 
+## References
+[Original Case Study](docs/DOSSIER-HYP-SWBLI-003.md)  
+[Link 1](https://www.sciencedirect.com/science/article/abs/pii/S1359431126034022)  
+[Link 2](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/abs/global-aerothermal-effects-and-their-symmetry-in-hypersonic-transitional-swept-shock-waveboundarylayer-interactions/F7C83B768990F74C10A079BD87235CB5)  
+
+
 ## Quick Start
 Run the master simulation to visualize the integrated physical response:
 ```bash
